@@ -18,3 +18,10 @@ conda activate interview
 pip install -r requirements.txt
 ```
 
+
+```bash
+python app.py
+```
+
+
+
